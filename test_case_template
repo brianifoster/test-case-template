@@ -1,0 +1,34 @@
+# Test Case ID:
+
+## Status
+(PASS/FAIL)
+
+## Summary
+(Say something about the context of this test case)
+
+## Prerequisites
+(Say something about what needs to be set up in order to execute this test)
+
+## Test Actions & Steps
+### Action 1: (Expected Behavior)
+#### Steps
+(List the steps necessary to execute each action)
+
+**ASSERT: (Assertion)**
+
+
+## Test Data
+Product: (Admin Dashboard/Mobile/OFK/Online Ordering)
+Version:
+Environment:
+Operating System:
+URL:
+Credentials:
+
+## Actual Results/Notes
+(Say something about the testing process and if it did not pass, why)
+
+## Team
+Lead Developer(s):
+Test Case Author:
+Tester(s):
